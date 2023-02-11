@@ -2,5 +2,5 @@
 
 
 - 🔭 Atualmente não trabalho na area, mas estou em busca de oportunidade!
-- 🌱 Estudando Java
-- 💬 Cursando Análise e Desenvolvimento de Sistemas 
+- 🌱 Estudando Java, e aprimorando conhecimentos em outras linguagens
+- 💬 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas
