@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas, e tenho 20 anos!
+### Olá! Eu sou o Lucas, e tenho 21 anos!
 
 
 - 🔭 Atualmente não trabalho na area, mas estou em busca de oportunidade!
