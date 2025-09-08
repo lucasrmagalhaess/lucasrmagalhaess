@@ -1,6 +1,6 @@
 ### Hi there 👋 ###
 
-Olá! Eu sou o Lucas, e tenho 21 anos!
+Olá! Eu sou o Lucas Rodrigues de Magalhães, tenho 21 anos e sou um grande amante por tecnologias!
 
 
 - 🔭 Atualmente não trabalho na area, mas estou em busca de oportunidade!
