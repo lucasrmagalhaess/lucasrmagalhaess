@@ -14,6 +14,7 @@ Olá! Eu sou o <b>Lucas Rodrigues de Magalhães</b>, tenho 21 anos e sou um gran
   
 </div>
 
+<br>
 
 <a href="https://github.com/lucasrmagalhaess/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrmagalhaess" />
