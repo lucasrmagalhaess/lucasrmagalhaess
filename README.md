@@ -9,8 +9,8 @@ Olá! Eu sou o <b>Lucas Rodrigues de Magalhães</b>, tenho 21 anos e sou um gran
 
 
 <div> 
-  <a href = "mailto:lucasromagalhaes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucasrmagalhaess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=red" target="_blank"></a> 
+  <a href = "mailto:lucasromagalhaes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasrmagalhaess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
