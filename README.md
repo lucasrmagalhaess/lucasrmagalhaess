@@ -5,7 +5,7 @@ Olá! Eu sou o Lucas Rodrigues de Magalhães, tenho 21 anos e sou um grande aman
 
 - 🔭 Trilhando meu caminho na área, com muita dedicação e estudos!
 - 🌱 Com foco em backend, mas aprimorando conhecimentos em outras stacks!
-- 💻 Technologist in *Systems Analysis and Development* [SENAC SP](https://www.sp.senac.br/)
+- 💻 Technologist in *Systems Analysis and Development* [Senac São Paulo - SP](https://www.sp.senac.br/)
 
 
 <div> 
