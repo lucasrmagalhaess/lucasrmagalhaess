@@ -1,6 +1,6 @@
 ### Hi there 👋 ###
 
-Olá! Eu sou o <b>Lucas Rodrigues de Magalhães</b>, tenho 21 anos e sou um grande amante por tecnologias!
+Olá! Eu sou o <b>Lucas Rodrigues de Magalhães</b>, tenho 22 anos e sou um grande amante por tecnologias!
 
 
 - 🔭 Trilhando meu caminho na área, com muita resiliência, foco e paciência!
